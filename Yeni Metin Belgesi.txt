@@ -1,0 +1,3 @@
+ilk kommitimi atıyorumm
+
+git commit -m "first commit"
